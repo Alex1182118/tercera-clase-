@@ -1,0 +1,80 @@
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\Tercer clase.dll.config
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\Tercer clase.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\Tercer clase.pdb
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\csc.exe
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\csc.exe.config
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\csc.rsp
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\csi.exe
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\csi.exe.config
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\csi.rsp
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.AppContext.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Console.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Security.Claims.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\vbc.exe
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\vbc.exe.config
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\vbc.rsp
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\Antlr3.Runtime.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\Newtonsoft.Json.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.Helpers.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.Mvc.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.Optimization.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.Razor.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.WebPages.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\WebGrease.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.Helpers.xml
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.Mvc.xml
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.Optimization.xml
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.Razor.xml
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.WebPages.xml
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\Newtonsoft.Json.xml
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\Antlr3.Runtime.pdb
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\obj\Debug\Tercer clase.csprojAssemblyReference.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\obj\Debug\Tercer clase.csproj.CoreCompileInputs.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\obj\Debug\Tercer clase.csproj.CopyComplete
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\obj\Debug\Tercer clase.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\Tercer clase\Tercer clase\obj\Debug\Tercer clase.pdb
